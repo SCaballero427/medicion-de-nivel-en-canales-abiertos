@@ -1,0 +1,227 @@
+archivo,hora,fila_tablero,fila_foto,nivel_bruto_cm,parecido,bajo_minimo,dx,dy,parecido_seco,encuadre,parecido_otros,seccion,nivel_m,salto,nivel_v2_cm,v2_bajo_minimo
+NY_Owasco_Lake_near_Auburn_Staff___2025-09-24T19-00-06Z.jpg,2025-09-24 19:00:06,457,2153.1092,350.5533,0.1629,False,1,0,0.9592,1,0.5033,agua transparente,3.5055,False,367.0533,False
+NY_Owasco_Lake_near_Auburn_Staff___2025-09-24T20-00-15Z.jpg,2025-09-24 20:00:15,451,2147.6434,351.5533,0.1508,False,1,0,0.9609,1,0.5079,agua transparente,3.5155,False,368.5533,False
+NY_Owasco_Lake_near_Auburn_Staff___2025-09-24T22-00-03Z.jpg,2025-09-24 22:00:03,445,2142.1331,352.5533,0.1181,False,1,0,0.9549,1,0.5106,agua transparente,3.5255,False,367.2200,False
+NY_Owasco_Lake_near_Auburn_Staff___2025-09-24T23-00-08Z.jpg,2025-09-24 23:00:08,449,2145.8116,351.8867,0.0624,False,1,0,0.9607,1,0.5713,agua transparente,3.5189,False,370.0533,False
+NY_Owasco_Lake_near_Auburn_Staff___2025-09-25T11-00-04Z.jpg,2025-09-25 11:00:04,427,2125.3298,355.5533,0.1088,False,1,0,0.9611,1,0.6157,agua transparente,3.5555,False,370.0533,False
+NY_Owasco_Lake_near_Auburn_Staff___2025-09-25T13-00-04Z.jpg,2025-09-25 13:00:04,433,2130.9769,354.5533,0.1632,False,1,0,0.9617,1,0.5692,agua transparente,3.5455,False,368.5533,False
+NY_Owasco_Lake_near_Auburn_Staff___2025-09-25T14-00-08Z.jpg,2025-09-25 14:00:08,434,2131.9136,354.3867,0.1062,False,1,0,0.9566,1,0.5710,agua transparente,3.5439,False,370.0533,False
+NY_Owasco_Lake_near_Auburn_Staff___2025-09-25T15-00-26Z.jpg,2025-09-25 15:00:26,434,2131.9136,354.3867,0.1004,False,1,0,0.9546,1,0.5618,agua transparente,3.5439,False,370.0533,False
+NY_Owasco_Lake_near_Auburn_Staff___2025-09-25T17-00-26Z.jpg,2025-09-25 17:00:26,433,2130.9769,354.5533,0.0940,False,1,0,0.9533,1,0.5496,agua transparente,3.5455,False,349.3867,False
+NY_Owasco_Lake_near_Auburn_Staff___2025-09-25T18-00-08Z.jpg,2025-09-25 18:00:08,429,2127.2173,355.2200,0.1182,False,1,0,0.9517,1,0.5435,agua transparente,3.5522,False,367.2200,False
+NY_Owasco_Lake_near_Auburn_Staff___2025-09-25T19-00-04Z.jpg,2025-09-25 19:00:04,433,2130.9769,354.5533,0.1458,False,1,0,0.9372,1,0.5396,agua transparente,3.5455,False,349.0533,False
+NY_Owasco_Lake_near_Auburn_Staff___2025-09-25T20-00-04Z.jpg,2025-09-25 20:00:04,429,2127.2173,355.2200,0.1231,False,1,0,0.9366,1,0.5385,agua transparente,3.5522,False,349.5533,False
+NY_Owasco_Lake_near_Auburn_Staff___2025-09-25T22-00-28Z.jpg,2025-09-25 22:00:28,431,2129.0997,354.8867,0.1264,False,1,0,0.9402,1,0.5339,agua transparente,3.5489,False,367.2200,False
+NY_Owasco_Lake_near_Auburn_Staff___2025-09-25T23-00-07Z.jpg,2025-09-25 23:00:07,433,2130.9769,354.5533,0.1367,False,1,0,0.9461,1,0.5772,agua transparente,3.5455,False,367.8867,False
+NY_Owasco_Lake_near_Auburn_Staff___2025-09-26T00-00-08Z.jpg,2025-09-26 00:00:08,436,2134.7159,354.0533,-0.4388,False,0,1,0.8638,1,0.5359,agua transparente,3.5405,False,,False
+NY_Owasco_Lake_near_Auburn_Staff___2025-09-26T11-00-03Z.jpg,2025-09-26 11:00:03,427,2125.3298,355.5533,0.0839,False,0,0,0.9487,1,0.5713,agua transparente,3.5555,False,370.0533,False
+NY_Owasco_Lake_near_Auburn_Staff___2025-09-26T12-00-06Z.jpg,2025-09-26 12:00:06,432,2130.0389,354.7200,0.1258,False,0,0,0.9476,1,0.5029,agua transparente,3.5472,False,349.3867,False
+NY_Owasco_Lake_near_Auburn_Staff___2025-09-26T13-00-06Z.jpg,2025-09-26 13:00:06,430,2128.1592,355.0533,0.1224,False,0,0,0.9413,1,0.5052,agua transparente,3.5505,False,370.0533,False
+NY_Owasco_Lake_near_Auburn_Staff___2025-09-26T14-00-06Z.jpg,2025-09-26 14:00:06,428,2126.2742,355.3867,0.1292,False,0,0,0.9364,1,0.5022,agua transparente,3.5539,False,370.0533,False
+NY_Owasco_Lake_near_Auburn_Staff___2025-09-26T18-00-05Z.jpg,2025-09-26 18:00:05,434,2131.9136,354.3867,0.1153,False,1,0,0.9540,1,0.5248,agua transparente,3.5439,False,367.2200,False
+NY_Owasco_Lake_near_Auburn_Staff___2025-09-26T19-00-06Z.jpg,2025-09-26 19:00:06,430,2128.1592,355.0533,0.1520,False,1,0,0.9622,1,0.5236,agua transparente,3.5505,False,367.2200,False
+NY_Owasco_Lake_near_Auburn_Staff___2025-09-26T21-00-05Z.jpg,2025-09-26 21:00:05,433,2130.9769,354.5533,0.1542,False,1,0,0.9703,1,0.5170,agua transparente,3.5455,False,367.2200,False
+NY_Owasco_Lake_near_Auburn_Staff___2025-09-26T22-00-06Z.jpg,2025-09-26 22:00:06,434,2131.9136,354.3867,0.1555,False,1,0,0.9719,1,0.5120,agua transparente,3.5439,False,367.2200,False
+NY_Owasco_Lake_near_Auburn_Staff___2025-09-26T23-00-08Z.jpg,2025-09-26 23:00:08,434,2131.9136,354.3867,0.1512,False,1,0,0.9765,1,0.5312,agua transparente,3.5439,False,367.2200,False
+NY_Owasco_Lake_near_Auburn_Staff___2026-01-22T12-00-05Z.jpg,2026-01-22 12:00:05,558,2226.8675,,0.0000,False,-15,-15,0.0000,1,0.0000,"sin agua, con nieve",,False,,False
+NY_Owasco_Lake_near_Auburn_Staff___2026-01-22T13-00-04Z.jpg,2026-01-22 13:00:04,570,2248.3879,331.7200,0.3017,True,0,0,0.9897,1,0.5266,"sin agua, con nieve",,False,334.7200,False
+NY_Owasco_Lake_near_Auburn_Staff___2026-01-22T14-00-04Z.jpg,2026-01-22 14:00:04,561,2241.2956,333.2200,0.6349,True,0,0,0.9800,1,0.5353,"sin agua, con nieve",,False,334.7200,False
+NY_Owasco_Lake_near_Auburn_Staff___2026-01-22T15-00-04Z.jpg,2026-01-22 15:00:04,570,2248.3879,331.7200,0.3081,True,0,0,0.9948,1,0.5214,"sin agua, con nieve",,False,335.7200,False
+NY_Owasco_Lake_near_Auburn_Staff___2026-01-22T16-00-05Z.jpg,2026-01-22 16:00:05,561,2241.2956,333.2200,0.3163,True,0,0,0.9948,1,0.5170,"sin agua, con nieve",,False,334.7200,False
+NY_Owasco_Lake_near_Auburn_Staff___2026-01-22T17-00-04Z.jpg,2026-01-22 17:00:04,562,2242.0876,333.0533,0.4850,True,0,0,0.9927,1,0.5353,"sin agua, con nieve",,False,334.7200,False
+NY_Owasco_Lake_near_Auburn_Staff___2026-01-22T18-00-25Z.jpg,2026-01-22 18:00:25,570,2248.3879,331.7200,0.3824,True,0,0,0.9952,1,0.5223,"sin agua, con nieve",,False,334.7200,False
+NY_Owasco_Lake_near_Auburn_Staff___2026-01-22T19-00-04Z.jpg,2026-01-22 19:00:04,570,2248.3879,331.7200,0.2852,True,0,0,0.9956,1,0.5171,"sin agua, con nieve",,False,334.5533,False
+NY_Owasco_Lake_near_Auburn_Staff___2026-01-22T20-00-04Z.jpg,2026-01-22 20:00:04,561,2241.2956,333.2200,0.2606,True,0,0,0.9956,1,0.5174,"sin agua, con nieve",,False,334.7200,False
+NY_Owasco_Lake_near_Auburn_Staff___2026-01-22T21-00-03Z.jpg,2026-01-22 21:00:03,570,2248.3879,331.7200,0.2558,True,0,0,0.9954,1,0.5184,"sin agua, con nieve",,False,334.7200,False
+NY_Owasco_Lake_near_Auburn_Staff___2026-01-22T22-00-04Z.jpg,2026-01-22 22:00:04,571,2249.1710,331.5533,0.2792,True,0,0,0.9930,1,0.5193,"sin agua, con nieve",,False,334.5533,False
+NY_Owasco_Lake_near_Auburn_Staff___2026-01-22T23-00-05Z.jpg,2026-01-22 23:00:05,558,2226.8675,,0.0000,False,-15,-15,0.0000,1,0.0000,"sin agua, con nieve",,False,,False
+NY_Owasco_Lake_near_Auburn_Staff___2026-01-23T12-00-03Z.jpg,2026-01-23 12:00:03,346,2045.3300,,0.3672,False,-1,1,0.7935,1,0.5057,"sin agua, con nieve",,False,,False
+NY_Owasco_Lake_near_Auburn_Staff___2026-01-23T13-00-04Z.jpg,2026-01-23 13:00:04,562,2242.0876,333.0533,0.2155,True,0,0,0.9782,1,0.5141,"sin agua, con nieve",,False,334.7200,False
+NY_Owasco_Lake_near_Auburn_Staff___2026-01-23T14-00-04Z.jpg,2026-01-23 14:00:04,573,2250.7342,331.2200,0.2420,True,0,0,0.9799,1,0.5188,"sin agua, con nieve",,False,334.3867,False
+NY_Owasco_Lake_near_Auburn_Staff___2026-01-23T15-00-05Z.jpg,2026-01-23 15:00:05,573,2250.7342,331.2200,0.3712,True,0,0,0.9843,1,0.5305,"sin agua, con nieve",,False,334.3867,False
+NY_Owasco_Lake_near_Auburn_Staff___2026-01-23T16-00-15Z.jpg,2026-01-23 16:00:15,573,2250.7342,331.2200,0.4087,True,0,0,0.9866,1,0.5374,"sin agua, con nieve",,False,334.3867,False
+NY_Owasco_Lake_near_Auburn_Staff___2026-01-23T17-00-05Z.jpg,2026-01-23 17:00:05,573,2250.7342,331.2200,0.5095,True,0,0,0.9837,1,0.5370,"sin agua, con nieve",,False,334.3867,False
+NY_Owasco_Lake_near_Auburn_Staff___2026-01-23T18-00-03Z.jpg,2026-01-23 18:00:03,573,2250.7342,331.2200,0.4640,True,0,0,0.9831,1,0.5364,"sin agua, con nieve",,False,334.3867,False
+NY_Owasco_Lake_near_Auburn_Staff___2026-01-23T19-00-05Z.jpg,2026-01-23 19:00:05,574,2251.5144,331.0533,0.2978,True,0,0,0.9850,1,0.5276,"sin agua, con nieve",,False,334.2200,False
+NY_Owasco_Lake_near_Auburn_Staff___2026-01-23T20-00-06Z.jpg,2026-01-23 20:00:06,562,2242.0876,333.0533,0.2613,True,0,0,0.9851,1,0.5232,"sin agua, con nieve",,False,334.7200,False
+NY_Owasco_Lake_near_Auburn_Staff___2026-01-23T22-00-05Z.jpg,2026-01-23 22:00:05,562,2242.0876,333.0533,0.2940,True,0,0,0.9760,1,0.5236,"sin agua, con nieve",,False,334.7200,False
+NY_Owasco_Lake_near_Auburn_Staff___2026-01-23T23-00-05Z.jpg,2026-01-23 23:00:05,219,1895.9992,,0.3949,False,-1,0,0.7575,1,0.5701,"sin agua, con nieve",,False,,False
+NY_Owasco_Lake_near_Auburn_Staff___2026-01-24T12-00-03Z.jpg,2026-01-24 12:00:03,558,2226.8675,,0.0000,False,-15,-15,0.0000,1,0.0000,"sin agua, con nieve",,False,,False
+NY_Owasco_Lake_near_Auburn_Staff___2026-01-24T13-00-16Z.jpg,2026-01-24 13:00:16,562,2242.0876,333.0533,0.2884,True,0,0,0.9528,1,0.5327,"sin agua, con nieve",,False,334.7200,False
+NY_Owasco_Lake_near_Auburn_Staff___2026-01-24T14-00-05Z.jpg,2026-01-24 14:00:05,569,2247.6038,331.8867,0.5431,True,0,0,0.9530,1,0.5646,"sin agua, con nieve",,False,334.7200,False
+NY_Owasco_Lake_near_Auburn_Staff___2026-01-24T15-00-05Z.jpg,2026-01-24 15:00:05,569,2247.6038,331.8867,0.5703,True,0,0,0.9607,1,0.5473,"sin agua, con nieve",,False,334.5533,False
+NY_Owasco_Lake_near_Auburn_Staff___2026-01-24T16-00-05Z.jpg,2026-01-24 16:00:05,569,2247.6038,331.8867,0.5148,True,0,0,0.9605,1,0.5679,"sin agua, con nieve",,False,334.7200,False
+NY_Owasco_Lake_near_Auburn_Staff___2026-01-24T17-00-04Z.jpg,2026-01-24 17:00:04,562,2242.0876,333.0533,0.2859,True,0,0,0.9741,1,0.5348,"sin agua, con nieve",,False,334.7200,False
+NY_Owasco_Lake_near_Auburn_Staff___2026-01-24T18-00-04Z.jpg,2026-01-24 18:00:04,562,2242.0876,333.0533,0.4140,True,0,0,0.9769,1,0.5372,"sin agua, con nieve",,False,334.7200,False
+NY_Owasco_Lake_near_Auburn_Staff___2026-01-24T19-00-06Z.jpg,2026-01-24 19:00:06,562,2242.0876,333.0533,0.3256,True,0,0,0.9768,1,0.5351,"sin agua, con nieve",,False,334.7200,False
+NY_Owasco_Lake_near_Auburn_Staff___2026-01-24T20-00-03Z.jpg,2026-01-24 20:00:03,562,2242.0876,333.0533,0.5516,True,0,0,0.9668,1,0.5657,"sin agua, con nieve",,False,334.7200,False
+NY_Owasco_Lake_near_Auburn_Staff___2026-01-24T21-00-06Z.jpg,2026-01-24 21:00:06,570,2248.3879,331.7200,0.4778,True,0,0,0.9770,1,0.5430,"sin agua, con nieve",,False,334.5533,False
+NY_Owasco_Lake_near_Auburn_Staff___2026-01-24T22-00-05Z.jpg,2026-01-24 22:00:05,570,2248.3879,331.7200,0.4138,True,0,0,0.9749,1,0.5414,"sin agua, con nieve",,False,334.7200,False
+NY_Owasco_Lake_near_Auburn_Staff___2026-01-24T23-00-05Z.jpg,2026-01-24 23:00:05,458,2154.9213,,0.4877,False,-1,1,0.7725,1,0.5062,"sin agua, con nieve",,False,,False
+NY_Owasco_Lake_near_Auburn_Staff___2026-03-08T00-00-15Z.jpg,2026-03-08 00:00:15,511,2201.2291,,0.3392,False,0,1,0.8252,1,0.5341,agua entrando en la placa,,False,,False
+NY_Owasco_Lake_near_Auburn_Staff___2026-03-08T11-00-03Z.jpg,2026-03-08 11:00:03,558,2226.8675,,0.0000,False,-15,-15,0.0000,1,0.0000,agua entrando en la placa,,False,,False
+NY_Owasco_Lake_near_Auburn_Staff___2026-03-08T12-00-03Z.jpg,2026-03-08 12:00:03,561,2241.2956,333.2200,0.3753,True,0,0,0.9483,1,0.5631,agua entrando en la placa,,False,327.7200,False
+NY_Owasco_Lake_near_Auburn_Staff___2026-03-08T14-00-13Z.jpg,2026-03-08 14:00:13,562,2242.0876,333.0533,0.3493,True,0,0,0.9521,1,0.5246,agua entrando en la placa,,False,327.7200,False
+NY_Owasco_Lake_near_Auburn_Staff___2026-03-08T15-00-03Z.jpg,2026-03-08 15:00:03,562,2242.0876,333.0533,0.3030,True,0,0,0.9525,1,0.5293,agua entrando en la placa,,False,327.7200,False
+NY_Owasco_Lake_near_Auburn_Staff___2026-03-08T16-00-04Z.jpg,2026-03-08 16:00:04,562,2242.0876,333.0533,0.2232,True,0,0,0.9379,1,0.5201,agua entrando en la placa,,False,326.8867,True
+NY_Owasco_Lake_near_Auburn_Staff___2026-03-08T17-00-09Z.jpg,2026-03-08 17:00:09,561,2241.2956,333.2200,0.1967,True,1,0,0.9497,1,0.5244,agua entrando en la placa,,False,331.2200,False
+NY_Owasco_Lake_near_Auburn_Staff___2026-03-08T18-00-03Z.jpg,2026-03-08 18:00:03,561,2241.2956,333.2200,0.2113,True,1,0,0.9632,1,0.5392,agua entrando en la placa,,False,331.2200,False
+NY_Owasco_Lake_near_Auburn_Staff___2026-03-08T19-00-04Z.jpg,2026-03-08 19:00:04,561,2241.2956,333.2200,0.1680,True,1,0,0.9664,1,0.5426,agua entrando en la placa,,False,331.2200,False
+NY_Owasco_Lake_near_Auburn_Staff___2026-03-08T20-00-16Z.jpg,2026-03-08 20:00:16,561,2241.2956,333.2200,0.1532,True,1,0,0.9737,1,0.5431,agua entrando en la placa,,False,332.0533,False
+NY_Owasco_Lake_near_Auburn_Staff___2026-03-08T21-00-12Z.jpg,2026-03-08 21:00:12,561,2241.2956,333.2200,0.1775,True,1,0,0.9803,1,0.5446,agua entrando en la placa,,False,331.8867,False
+NY_Owasco_Lake_near_Auburn_Staff___2026-03-08T22-00-04Z.jpg,2026-03-08 22:00:04,561,2241.2956,333.2200,0.1113,True,1,0,0.9842,1,0.5395,agua entrando en la placa,,False,332.2200,False
+NY_Owasco_Lake_near_Auburn_Staff___2026-03-08T23-00-13Z.jpg,2026-03-08 23:00:13,561,2241.2956,333.2200,-0.0132,True,1,0,0.9802,1,0.5540,agua entrando en la placa,,False,332.5533,False
+NY_Owasco_Lake_near_Auburn_Staff___2026-03-09T00-00-18Z.jpg,2026-03-09 00:00:18,476,2171.0140,,0.4128,False,1,1,0.8209,1,0.5285,agua entrando en la placa,,False,,False
+NY_Owasco_Lake_near_Auburn_Staff___2026-03-09T11-00-23Z.jpg,2026-03-09 11:00:23,512,2202.0722,,0.2971,False,0,1,0.8366,1,0.5313,agua entrando en la placa,,False,,False
+NY_Owasco_Lake_near_Auburn_Staff___2026-03-09T12-00-03Z.jpg,2026-03-09 12:00:03,562,2242.0876,333.0533,0.0955,True,0,0,0.9581,1,0.5443,agua entrando en la placa,,False,332.8867,False
+NY_Owasco_Lake_near_Auburn_Staff___2026-03-09T13-00-12Z.jpg,2026-03-09 13:00:12,564,2243.6686,332.7200,0.1491,True,0,0,0.9519,1,0.5300,agua entrando en la placa,,False,333.0533,False
+NY_Owasco_Lake_near_Auburn_Staff___2026-03-09T14-00-08Z.jpg,2026-03-09 14:00:08,562,2242.0876,333.0533,0.0931,True,1,0,0.9607,1,0.5378,agua entrando en la placa,,False,334.3867,False
+NY_Owasco_Lake_near_Auburn_Staff___2026-03-09T15-00-04Z.jpg,2026-03-09 15:00:04,563,2242.8786,332.8867,0.1468,True,1,0,0.9745,1,0.5469,agua entrando en la placa,,False,334.3867,False
+NY_Owasco_Lake_near_Auburn_Staff___2026-03-09T16-00-13Z.jpg,2026-03-09 16:00:13,559,2239.7086,333.5533,0.1891,True,1,0,0.9893,1,0.5327,agua entrando en la placa,,False,334.8867,False
+NY_Owasco_Lake_near_Auburn_Staff___2026-03-09T17-00-04Z.jpg,2026-03-09 17:00:04,560,2240.5026,333.3867,0.0987,True,1,0,0.9884,1,0.5434,agua entrando en la placa,,False,334.2200,False
+NY_Owasco_Lake_near_Auburn_Staff___2026-03-09T18-00-04Z.jpg,2026-03-09 18:00:04,560,2240.5026,333.3867,0.2495,True,1,0,0.9830,1,0.5431,agua entrando en la placa,,False,334.7200,False
+NY_Owasco_Lake_near_Auburn_Staff___2026-03-09T20-00-12Z.jpg,2026-03-09 20:00:12,561,2241.2956,333.2200,0.2121,True,1,0,0.9661,1,0.5320,agua entrando en la placa,,False,334.3867,False
+NY_Owasco_Lake_near_Auburn_Staff___2026-03-09T21-00-04Z.jpg,2026-03-09 21:00:04,560,2240.5026,333.3867,0.1839,True,1,0,0.9642,1,0.5487,agua entrando en la placa,,False,334.8867,False
+NY_Owasco_Lake_near_Auburn_Staff___2026-03-09T22-00-08Z.jpg,2026-03-09 22:00:08,561,2241.2956,333.2200,-0.0849,True,1,0,0.9710,1,0.5410,agua entrando en la placa,,False,334.3867,False
+NY_Owasco_Lake_near_Auburn_Staff___2026-03-09T23-00-13Z.jpg,2026-03-09 23:00:13,561,2241.2956,333.2200,0.1887,True,1,0,0.9838,1,0.5280,agua entrando en la placa,,False,334.2200,False
+NY_Owasco_Lake_near_Auburn_Staff___2026-03-10T00-00-03Z.jpg,2026-03-10 00:00:03,473,2168.3586,,0.3682,False,1,1,0.8178,1,0.5262,agua entrando en la placa,,False,,False
+NY_Owasco_Lake_near_Auburn_Staff___2026-03-10T11-00-03Z.jpg,2026-03-10 11:00:03,562,2242.8786,,-0.4879,False,0,1,0.8408,1,0.5320,agua entrando en la placa,,False,,False
+NY_Owasco_Lake_near_Auburn_Staff___2026-03-10T12-00-03Z.jpg,2026-03-10 12:00:03,559,2239.7086,333.5533,0.2372,True,1,0,0.9709,1,0.5429,agua entrando en la placa,,False,335.0533,False
+NY_Owasco_Lake_near_Auburn_Staff___2026-03-10T13-00-03Z.jpg,2026-03-10 13:00:03,486,2178.9169,345.7200,0.1402,False,1,0,0.9797,1,0.5396,agua entrando en la placa,3.4572,False,347.0533,False
+NY_Owasco_Lake_near_Auburn_Staff___2026-03-10T14-00-03Z.jpg,2026-03-10 14:00:03,561,2241.2956,333.2200,0.2112,True,1,0,0.9835,1,0.5333,agua entrando en la placa,,False,334.3867,False
+NY_Owasco_Lake_near_Auburn_Staff___2026-03-10T15-00-03Z.jpg,2026-03-10 15:00:03,561,2241.2956,333.2200,0.1137,True,1,0,0.9886,1,0.5501,agua entrando en la placa,,False,334.3867,False
+NY_Owasco_Lake_near_Auburn_Staff___2026-03-10T16-00-05Z.jpg,2026-03-10 16:00:05,560,2240.5026,333.3867,0.2087,True,1,0,0.9846,1,0.5211,agua entrando en la placa,,False,334.2200,False
+NY_Owasco_Lake_near_Auburn_Staff___2026-03-10T17-00-04Z.jpg,2026-03-10 17:00:04,561,2241.2956,333.2200,0.2164,True,1,0,0.9807,1,0.5131,agua entrando en la placa,,False,333.8867,False
+NY_Owasco_Lake_near_Auburn_Staff___2026-03-10T18-00-03Z.jpg,2026-03-10 18:00:03,561,2241.2956,333.2200,0.2319,True,1,0,0.9698,1,0.5213,agua entrando en la placa,,False,333.0533,False
+NY_Owasco_Lake_near_Auburn_Staff___2026-03-10T19-00-04Z.jpg,2026-03-10 19:00:04,561,2241.2956,333.2200,0.2501,True,2,0,0.9651,1,0.5169,agua entrando en la placa,,False,333.0533,False
+NY_Owasco_Lake_near_Auburn_Staff___2026-03-10T20-00-15Z.jpg,2026-03-10 20:00:15,559,2239.7086,333.5533,0.2610,True,2,0,0.9644,1,0.5174,agua entrando en la placa,,False,333.0533,False
+NY_Owasco_Lake_near_Auburn_Staff___2026-03-10T21-00-04Z.jpg,2026-03-10 21:00:04,561,2241.2956,333.2200,0.2465,True,2,0,0.9620,1,0.5258,agua entrando en la placa,,False,333.0533,False
+NY_Owasco_Lake_near_Auburn_Staff___2026-03-10T22-00-03Z.jpg,2026-03-10 22:00:03,560,2240.5026,333.3867,0.2489,True,1,0,0.9617,1,0.5234,agua entrando en la placa,,False,333.0533,False
+NY_Owasco_Lake_near_Auburn_Staff___2026-03-10T23-00-03Z.jpg,2026-03-10 23:00:03,561,2241.2956,333.2200,0.1487,True,1,0,0.9783,1,0.5534,agua entrando en la placa,,False,332.8867,False
+NY_Owasco_Lake_near_Auburn_Staff___2026-04-01T00-00-03Z.jpg,2026-04-01 00:00:03,558,2226.8675,,0.0000,False,-15,-15,0.0000,1,0.0000,lente empanada,,False,,False
+NY_Owasco_Lake_near_Auburn_Staff___2026-04-01T10-00-03Z.jpg,2026-04-01 10:00:03,138,1784.5785,,0.1799,False,1,0,0.6850,1,0.6116,lente empanada,,False,,False
+NY_Owasco_Lake_near_Auburn_Staff___2026-04-01T11-00-32Z.jpg,2026-04-01 11:00:32,216,1893.4224,390.7200,0.1110,False,0,1,0.9001,1,0.6497,lente empanada,3.9072,False,403.5533,False
+NY_Owasco_Lake_near_Auburn_Staff___2026-04-01T12-00-05Z.jpg,2026-04-01 12:00:05,204,1877.7868,392.7200,0.1090,False,0,1,0.9266,1,0.6291,lente empanada,3.9272,False,385.0533,False
+NY_Owasco_Lake_near_Auburn_Staff___2026-04-01T13-00-04Z.jpg,2026-04-01 13:00:04,200,1872.5071,393.3867,0.1585,False,0,1,0.9409,1,0.6127,lente empanada,3.9339,False,385.3867,False
+NY_Owasco_Lake_near_Auburn_Staff___2026-04-01T14-00-04Z.jpg,2026-04-01 14:00:04,194,1864.5229,394.3867,0.1399,False,0,1,0.9175,1,0.6301,lente empanada,3.9439,False,387.7200,False
+NY_Owasco_Lake_near_Auburn_Staff___2026-04-01T15-00-04Z.jpg,2026-04-01 15:00:04,193,1863.1846,394.5533,0.1502,False,0,1,0.9253,1,0.6264,lente empanada,3.9455,False,387.5533,False
+NY_Owasco_Lake_near_Auburn_Staff___2026-04-01T16-00-03Z.jpg,2026-04-01 16:00:03,182,1848.3173,396.3867,0.2137,False,0,1,0.9180,1,0.6288,lente empanada,3.9639,False,387.8867,False
+NY_Owasco_Lake_near_Auburn_Staff___2026-04-01T17-00-04Z.jpg,2026-04-01 17:00:04,183,1849.6800,396.2200,0.2096,False,0,1,0.9186,1,0.6316,lente empanada,3.9622,False,387.8867,False
+NY_Owasco_Lake_near_Auburn_Staff___2026-04-01T18-00-04Z.jpg,2026-04-01 18:00:04,177,1841.4699,397.2200,0.0788,False,0,1,0.9315,1,0.6241,lente empanada,3.9722,False,389.7200,False
+NY_Owasco_Lake_near_Auburn_Staff___2026-04-01T19-00-21Z.jpg,2026-04-01 19:00:21,175,1838.7150,397.5533,0.1959,False,0,1,0.9342,1,0.6216,lente empanada,3.9755,False,391.2200,False
+NY_Owasco_Lake_near_Auburn_Staff___2026-04-01T20-00-20Z.jpg,2026-04-01 20:00:20,166,1826.2041,399.0533,0.3025,False,0,1,0.9317,1,0.6213,lente empanada,3.9905,False,391.3867,False
+NY_Owasco_Lake_near_Auburn_Staff___2026-04-01T21-00-21Z.jpg,2026-04-01 21:00:21,158,1814.9241,400.3867,0.3946,False,0,1,0.9404,1,0.6154,lente empanada,4.0039,False,394.7200,False
+NY_Owasco_Lake_near_Auburn_Staff___2026-04-01T22-00-04Z.jpg,2026-04-01 22:00:04,158,1814.9241,400.3867,0.3895,False,0,1,0.9362,1,0.6189,lente empanada,4.0039,False,403.7200,False
+NY_Owasco_Lake_near_Auburn_Staff___2026-04-01T23-00-21Z.jpg,2026-04-01 23:00:21,148,1800.6088,402.0533,0.4186,False,0,1,0.9247,1,0.6345,lente empanada,4.0205,False,394.8867,False
+NY_Owasco_Lake_near_Auburn_Staff___2026-04-02T00-00-03Z.jpg,2026-04-02 00:00:03,558,2226.8675,,0.0000,False,-15,-15,0.0000,1,0.0000,lente empanada,,False,,False
+NY_Owasco_Lake_near_Auburn_Staff___2026-04-02T10-00-03Z.jpg,2026-04-02 10:00:03,139,1787.5156,,0.4303,False,0,1,0.7490,1,0.6118,lente empanada,,False,,False
+NY_Owasco_Lake_near_Auburn_Staff___2026-04-02T11-00-03Z.jpg,2026-04-02 11:00:03,139,1787.5156,403.5533,0.3873,False,0,1,0.8932,1,0.6534,lente empanada,4.0355,False,396.5533,False
+NY_Owasco_Lake_near_Auburn_Staff___2026-04-02T12-00-13Z.jpg,2026-04-02 12:00:13,139,1787.5156,403.5533,0.3328,False,0,1,0.9301,1,0.6249,lente empanada,4.0355,False,403.5533,False
+NY_Owasco_Lake_near_Auburn_Staff___2026-04-02T13-00-04Z.jpg,2026-04-02 13:00:04,136,1783.1062,404.0533,0.3590,False,0,1,0.9105,1,0.6377,lente empanada,4.0405,False,396.7200,False
+NY_Owasco_Lake_near_Auburn_Staff___2026-04-02T14-00-13Z.jpg,2026-04-02 14:00:13,138,1786.0483,403.7200,0.4465,False,0,1,0.9033,1,0.6403,lente empanada,4.0372,False,396.5533,False
+NY_Owasco_Lake_near_Auburn_Staff___2026-04-02T15-00-04Z.jpg,2026-04-02 15:00:04,137,1784.5785,403.8867,0.4281,False,0,1,0.9050,1,0.6398,lente empanada,4.0389,False,396.5533,False
+NY_Owasco_Lake_near_Auburn_Staff___2026-04-02T16-00-04Z.jpg,2026-04-02 16:00:04,129,1772.7291,405.2200,0.2111,False,0,1,0.9036,1,0.6410,lente empanada,4.0522,False,396.8867,False
+NY_Owasco_Lake_near_Auburn_Staff___2026-04-02T17-00-04Z.jpg,2026-04-02 17:00:04,136,1783.1062,404.0533,0.2318,False,0,1,0.8964,1,0.6408,lente empanada,4.0405,False,396.7200,False
+NY_Owasco_Lake_near_Auburn_Staff___2026-04-02T18-00-04Z.jpg,2026-04-02 18:00:04,132,1777.1917,404.7200,0.2827,False,0,1,0.9016,1,0.6394,lente empanada,4.0472,False,396.7200,False
+NY_Owasco_Lake_near_Auburn_Staff___2026-04-02T19-00-03Z.jpg,2026-04-02 19:00:03,138,1786.0483,403.7200,0.4534,False,0,1,0.9117,1,0.6321,lente empanada,4.0372,False,396.5533,False
+NY_Owasco_Lake_near_Auburn_Staff___2026-04-02T20-00-13Z.jpg,2026-04-02 20:00:13,139,1787.5156,403.5533,0.3900,False,0,1,0.8934,1,0.6417,lente empanada,4.0355,False,396.7200,False
+NY_Owasco_Lake_near_Auburn_Staff___2026-04-02T21-00-08Z.jpg,2026-04-02 21:00:08,140,1788.9803,403.3867,0.2552,False,0,1,0.8866,1,0.6460,lente empanada,4.0339,False,396.5533,False
+NY_Owasco_Lake_near_Auburn_Staff___2026-04-02T22-00-07Z.jpg,2026-04-02 22:00:07,132,1777.1917,404.7200,0.3500,False,0,1,0.9090,1,0.6341,lente empanada,4.0472,False,396.7200,False
+NY_Owasco_Lake_near_Auburn_Staff___2026-04-02T23-00-07Z.jpg,2026-04-02 23:00:07,129,1772.7291,405.2200,0.3062,False,0,1,0.8920,1,0.6501,lente empanada,4.0522,False,396.7200,False
+NY_Owasco_Lake_near_Auburn_Staff___2026-04-03T00-00-03Z.jpg,2026-04-03 00:00:03,255,2028.8396,,-0.0256,False,8,15,0.0783,2,0.0358,lente empanada,,False,,False
+NY_Owasco_Lake_near_Auburn_Staff___2026-04-03T10-00-03Z.jpg,2026-04-03 10:00:03,139,1787.5156,,0.6890,False,0,1,0.7327,1,0.6021,lente empanada,,False,,False
+NY_Owasco_Lake_near_Auburn_Staff___2026-04-03T11-00-03Z.jpg,2026-04-03 11:00:03,151,1804.9288,401.5533,0.4828,False,0,1,0.8994,1,0.6451,lente empanada,4.0155,False,403.7200,False
+NY_Owasco_Lake_near_Auburn_Staff___2026-04-03T12-00-03Z.jpg,2026-04-03 12:00:03,148,1800.6088,402.0533,0.3473,False,0,1,0.9071,1,0.6343,lente empanada,4.0205,False,394.8867,False
+NY_Owasco_Lake_near_Auburn_Staff___2026-04-03T13-00-04Z.jpg,2026-04-03 13:00:04,137,1784.5785,403.8867,0.4708,False,0,1,0.8756,1,0.6456,lente empanada,4.0389,False,396.5533,False
+NY_Owasco_Lake_near_Auburn_Staff___2026-04-03T14-00-21Z.jpg,2026-04-03 14:00:21,138,1786.0483,403.7200,0.4414,False,0,1,0.8886,1,0.6401,lente empanada,4.0372,False,396.5533,False
+NY_Owasco_Lake_near_Auburn_Staff___2026-04-03T15-00-05Z.jpg,2026-04-03 15:00:05,140,1788.9803,403.3867,0.3460,False,0,1,0.8573,1,0.6481,lente empanada,4.0339,False,396.3867,False
+NY_Owasco_Lake_near_Auburn_Staff___2026-04-03T16-00-04Z.jpg,2026-04-03 16:00:04,141,1790.4425,403.2200,0.3609,False,1,1,0.8677,1,0.6460,lente empanada,4.0322,False,396.3867,False
+NY_Owasco_Lake_near_Auburn_Staff___2026-04-03T17-00-04Z.jpg,2026-04-03 17:00:04,140,1787.5156,403.3867,0.3665,False,1,0,0.8842,1,0.6472,lente empanada,4.0339,False,396.3867,False
+NY_Owasco_Lake_near_Auburn_Staff___2026-04-03T18-00-22Z.jpg,2026-04-03 18:00:22,140,1787.5156,403.3867,0.3121,False,1,0,0.8817,1,0.6472,lente empanada,4.0339,False,403.5533,False
+NY_Owasco_Lake_near_Auburn_Staff___2026-04-03T19-00-04Z.jpg,2026-04-03 19:00:04,145,1794.8143,402.5533,0.3631,False,1,0,0.8727,1,0.6487,lente empanada,4.0255,False,403.3867,False
+NY_Owasco_Lake_near_Auburn_Staff___2026-04-03T20-00-04Z.jpg,2026-04-03 20:00:04,152,1804.9288,401.3867,0.4487,False,2,0,0.8624,1,0.6507,lente empanada,4.0139,False,394.7200,False
+NY_Owasco_Lake_near_Auburn_Staff___2026-04-03T21-00-03Z.jpg,2026-04-03 21:00:03,157,1812.0804,400.5533,0.2971,False,2,0,0.9023,1,0.6386,lente empanada,4.0055,False,403.5533,False
+NY_Owasco_Lake_near_Auburn_Staff___2026-04-03T22-00-20Z.jpg,2026-04-03 22:00:20,157,1812.0804,400.5533,0.2973,False,2,0,0.9107,1,0.6441,lente empanada,4.0055,False,394.8867,False
+NY_Owasco_Lake_near_Auburn_Staff___2026-04-03T23-00-04Z.jpg,2026-04-03 23:00:04,156,1810.6549,400.7200,0.3719,False,2,0,0.9243,1,0.6388,lente empanada,4.0072,False,403.5533,False
+NY_Owasco_Lake_near_Auburn_Staff___2026-05-13T00-00-05Z.jpg,2026-05-13 00:00:05,237,1918.8233,387.2200,0.2431,False,2,0,0.9141,1,0.6441,"agua alta, placa verde",3.8722,False,403.5533,False
+NY_Owasco_Lake_near_Auburn_Staff___2026-05-13T01-00-06Z.jpg,2026-05-13 01:00:06,288,1962.5784,,-0.0808,False,-15,-15,0.0000,1,0.0000,"agua alta, placa verde",,False,,False
+NY_Owasco_Lake_near_Auburn_Staff___2026-05-13T09-00-05Z.jpg,2026-05-13 09:00:05,233,1915.0644,,-0.2231,False,2,1,0.8209,1,0.5784,"agua alta, placa verde",,False,,False
+NY_Owasco_Lake_near_Auburn_Staff___2026-05-13T10-00-05Z.jpg,2026-05-13 10:00:05,232,1913.8075,388.0533,0.0471,False,2,1,0.9146,1,0.6398,"agua alta, placa verde",3.8805,False,404.0533,False
+NY_Owasco_Lake_near_Auburn_Staff___2026-05-13T11-00-06Z.jpg,2026-05-13 11:00:06,234,1916.3193,387.7200,0.1859,False,2,1,0.9342,1,0.5969,"agua alta, placa verde",3.8772,False,404.0533,False
+NY_Owasco_Lake_near_Auburn_Staff___2026-05-13T12-00-13Z.jpg,2026-05-13 12:00:13,231,1912.5486,388.2200,-0.0447,False,2,1,0.9364,1,0.5996,"agua alta, placa verde",3.8822,False,404.2200,False
+NY_Owasco_Lake_near_Auburn_Staff___2026-05-13T13-00-05Z.jpg,2026-05-13 13:00:05,227,1907.4929,388.8867,-0.0003,False,2,1,0.9304,1,0.5989,"agua alta, placa verde",3.8889,False,403.5533,False
+NY_Owasco_Lake_near_Auburn_Staff___2026-05-13T14-00-05Z.jpg,2026-05-13 14:00:05,233,1915.0644,387.8867,0.1904,False,2,1,0.9277,1,0.6062,"agua alta, placa verde",3.8789,False,403.5533,False
+NY_Owasco_Lake_near_Auburn_Staff___2026-05-13T15-00-13Z.jpg,2026-05-13 15:00:13,233,1915.0644,387.8867,0.2750,False,1,1,0.9313,1,0.5990,"agua alta, placa verde",3.8789,False,403.5533,False
+NY_Owasco_Lake_near_Auburn_Staff___2026-05-13T16-00-06Z.jpg,2026-05-13 16:00:06,231,1912.5486,388.2200,0.0407,False,2,1,0.9528,1,0.5922,"agua alta, placa verde",3.8822,False,404.5533,False
+NY_Owasco_Lake_near_Auburn_Staff___2026-05-13T17-00-22Z.jpg,2026-05-13 17:00:22,230,1911.2877,388.3867,-0.0187,False,2,1,0.9479,1,0.5855,"agua alta, placa verde",3.8839,False,382.5533,False
+NY_Owasco_Lake_near_Auburn_Staff___2026-05-13T18-00-07Z.jpg,2026-05-13 18:00:07,230,1911.2877,388.3867,0.0258,False,2,1,0.9340,1,0.5576,"agua alta, placa verde",3.8839,False,382.5533,False
+NY_Owasco_Lake_near_Auburn_Staff___2026-05-13T19-00-14Z.jpg,2026-05-13 19:00:14,221,1899.8488,389.8867,-0.0328,False,2,1,0.9435,1,0.5624,"agua alta, placa verde",3.8989,False,382.7200,False
+NY_Owasco_Lake_near_Auburn_Staff___2026-05-13T20-00-12Z.jpg,2026-05-13 20:00:12,226,1906.2240,389.0533,0.0244,False,2,1,0.9293,1,0.5700,"agua alta, placa verde",3.8905,False,382.5533,False
+NY_Owasco_Lake_near_Auburn_Staff___2026-05-13T21-00-05Z.jpg,2026-05-13 21:00:05,200,1872.5071,393.3867,0.0756,False,2,1,0.9339,1,0.5789,"agua alta, placa verde",3.9339,True,386.2200,False
+NY_Owasco_Lake_near_Auburn_Staff___2026-05-13T22-00-12Z.jpg,2026-05-13 22:00:12,232,1913.8075,388.0533,0.1597,False,1,1,0.9411,1,0.5522,"agua alta, placa verde",3.8805,False,403.5533,False
+NY_Owasco_Lake_near_Auburn_Staff___2026-05-13T23-00-13Z.jpg,2026-05-13 23:00:13,215,1892.1310,390.8867,0.0658,False,1,1,0.9447,1,0.5420,"agua alta, placa verde",3.9089,False,384.7200,False
+NY_Owasco_Lake_near_Auburn_Staff___2026-05-14T00-00-14Z.jpg,2026-05-14 00:00:14,218,1895.9992,390.3867,0.0874,False,1,1,0.9511,1,0.5593,"agua alta, placa verde",3.9039,False,384.0533,False
+NY_Owasco_Lake_near_Auburn_Staff___2026-05-14T01-00-06Z.jpg,2026-05-14 01:00:06,126,1771.2364,,0.0799,False,3,3,0.4001,1,0.3200,"agua alta, placa verde",,False,,False
+NY_Owasco_Lake_near_Auburn_Staff___2026-05-14T09-00-05Z.jpg,2026-05-14 09:00:05,219,1897.2844,,-0.1970,False,1,1,0.8068,1,0.5390,"agua alta, placa verde",,False,,False
+NY_Owasco_Lake_near_Auburn_Staff___2026-05-14T10-00-20Z.jpg,2026-05-14 10:00:20,220,1898.5676,390.0533,0.0197,False,1,1,0.9509,1,0.6013,"agua alta, placa verde",3.9005,False,382.7200,False
+NY_Owasco_Lake_near_Auburn_Staff___2026-05-14T11-00-05Z.jpg,2026-05-14 11:00:05,221,1899.8488,389.8867,0.1029,False,1,1,0.9640,1,0.5400,"agua alta, placa verde",3.8989,False,382.5533,False
+NY_Owasco_Lake_near_Auburn_Staff___2026-05-14T12-00-05Z.jpg,2026-05-14 12:00:05,223,1902.4050,389.5533,-0.0067,False,1,1,0.9515,1,0.5499,"agua alta, placa verde",3.8955,False,382.5533,False
+NY_Owasco_Lake_near_Auburn_Staff___2026-05-14T13-00-06Z.jpg,2026-05-14 13:00:06,220,1898.5676,390.0533,0.0138,False,1,1,0.9502,1,0.5431,"agua alta, placa verde",3.9005,False,382.5533,False
+NY_Owasco_Lake_near_Auburn_Staff___2026-05-14T14-00-15Z.jpg,2026-05-14 14:00:15,220,1898.5676,390.0533,0.0017,False,1,1,0.9385,1,0.5551,"agua alta, placa verde",3.9005,False,382.5533,False
+NY_Owasco_Lake_near_Auburn_Staff___2026-05-14T15-00-06Z.jpg,2026-05-14 15:00:06,220,1898.5676,390.0533,0.0381,False,1,1,0.9355,1,0.5482,"agua alta, placa verde",3.9005,False,382.7200,False
+NY_Owasco_Lake_near_Auburn_Staff___2026-05-14T17-00-11Z.jpg,2026-05-14 17:00:11,218,1895.9992,390.3867,0.0247,False,1,1,0.9192,1,0.5638,"agua alta, placa verde",3.9039,False,382.8867,False
+NY_Owasco_Lake_near_Auburn_Staff___2026-05-14T18-00-14Z.jpg,2026-05-14 18:00:14,223,1902.4050,389.5533,0.0290,False,2,1,0.9216,1,0.5510,"agua alta, placa verde",3.8955,False,382.5533,False
+NY_Owasco_Lake_near_Auburn_Staff___2026-05-14T19-00-05Z.jpg,2026-05-14 19:00:05,219,1897.2844,390.2200,0.0017,False,1,1,0.9299,1,0.5477,"agua alta, placa verde",3.9022,False,382.7200,False
+NY_Owasco_Lake_near_Auburn_Staff___2026-05-14T20-00-05Z.jpg,2026-05-14 20:00:05,220,1898.5676,390.0533,0.0032,False,1,1,0.9268,1,0.5510,"agua alta, placa verde",3.9005,False,382.5533,False
+NY_Owasco_Lake_near_Auburn_Staff___2026-05-14T22-00-12Z.jpg,2026-05-14 22:00:12,222,1901.1279,389.7200,0.0747,False,1,1,0.9398,1,0.6049,"agua alta, placa verde",3.8972,False,403.5533,False
+NY_Owasco_Lake_near_Auburn_Staff___2026-05-14T23-00-06Z.jpg,2026-05-14 23:00:06,223,1902.4050,389.5533,0.1073,False,1,1,0.9506,1,0.6008,"agua alta, placa verde",3.8955,False,403.5533,False
+NY_Owasco_Lake_near_Auburn_Staff___2026-05-15T00-00-05Z.jpg,2026-05-15 00:00:05,219,1897.2844,390.2200,0.0545,False,1,1,0.9483,1,0.6220,"agua alta, placa verde",3.9022,False,403.5533,False
+NY_Owasco_Lake_near_Auburn_Staff___2026-05-15T01-00-06Z.jpg,2026-05-15 01:00:06,219,1897.2844,,-0.3378,False,1,1,0.8319,1,0.6099,"agua alta, placa verde",,False,,False
+NY_Owasco_Lake_near_Auburn_Staff___2026-05-15T09-00-05Z.jpg,2026-05-15 09:00:05,352,2034.6713,,-0.4299,False,-15,-15,0.0000,1,0.0000,"agua alta, placa verde",,False,,False
+NY_Owasco_Lake_near_Auburn_Staff___2026-05-15T10-00-24Z.jpg,2026-05-15 10:00:24,223,1902.4050,389.5533,0.0761,False,1,1,0.9442,1,0.6358,"agua alta, placa verde",3.8955,False,403.5533,False
+NY_Owasco_Lake_near_Auburn_Staff___2026-05-15T11-00-23Z.jpg,2026-05-15 11:00:23,223,1902.4050,389.5533,0.0529,False,1,1,0.9648,1,0.5932,"agua alta, placa verde",3.8955,False,403.5533,False
+NY_Owasco_Lake_near_Auburn_Staff___2026-05-15T12-00-30Z.jpg,2026-05-15 12:00:30,224,1903.6800,389.3867,0.0620,False,1,1,0.9674,1,0.5880,"agua alta, placa verde",3.8939,False,403.5533,False
+NY_Owasco_Lake_near_Auburn_Staff___2026-05-15T13-00-05Z.jpg,2026-05-15 13:00:05,220,1898.5676,390.0533,0.0975,False,1,1,0.9565,1,0.5967,"agua alta, placa verde",3.9005,False,403.5533,False
+NY_Owasco_Lake_near_Auburn_Staff___2026-05-15T14-00-14Z.jpg,2026-05-15 14:00:14,220,1898.5676,390.0533,0.1050,False,1,1,0.9521,1,0.5841,"agua alta, placa verde",3.9005,False,403.5533,False
+NY_Owasco_Lake_near_Auburn_Staff___2026-05-15T15-00-14Z.jpg,2026-05-15 15:00:14,224,1903.6800,389.3867,0.0901,False,1,1,0.9328,1,0.6029,"agua alta, placa verde",3.8939,False,403.0533,False
+NY_Owasco_Lake_near_Auburn_Staff___2026-05-15T16-00-06Z.jpg,2026-05-15 16:00:06,220,1898.5676,390.0533,0.1063,False,2,1,0.9579,1,0.5701,"agua alta, placa verde",3.9005,False,404.8867,False
+NY_Owasco_Lake_near_Auburn_Staff___2026-05-15T17-00-05Z.jpg,2026-05-15 17:00:05,222,1901.1279,389.7200,0.1016,False,2,1,0.9177,1,0.5600,"agua alta, placa verde",3.8972,False,382.3867,False
+NY_Owasco_Lake_near_Auburn_Staff___2026-05-15T18-00-26Z.jpg,2026-05-15 18:00:26,222,1901.1279,389.7200,0.1094,False,2,1,0.9379,1,0.5645,"agua alta, placa verde",3.8972,False,402.5533,False
+NY_Owasco_Lake_near_Auburn_Staff___2026-05-15T19-00-21Z.jpg,2026-05-15 19:00:21,216,1893.4224,390.7200,0.1429,False,2,1,0.9176,1,0.5785,"agua alta, placa verde",3.9072,False,383.0533,False
+NY_Owasco_Lake_near_Auburn_Staff___2026-05-15T20-00-22Z.jpg,2026-05-15 20:00:22,223,1902.4050,389.5533,0.0719,False,2,1,0.9096,1,0.5736,"agua alta, placa verde",3.8955,False,382.3867,False
+NY_Owasco_Lake_near_Auburn_Staff___2026-05-15T21-00-06Z.jpg,2026-05-15 21:00:06,222,1901.1279,389.7200,0.1226,False,2,1,0.9168,1,0.5498,"agua alta, placa verde",3.8972,False,382.3867,False
+NY_Owasco_Lake_near_Auburn_Staff___2026-05-15T22-00-14Z.jpg,2026-05-15 22:00:14,226,1906.2240,389.0533,0.1394,False,2,1,0.9169,1,0.5625,"agua alta, placa verde",3.8905,False,382.5533,False
+NY_Owasco_Lake_near_Auburn_Staff___2026-05-15T23-00-06Z.jpg,2026-05-15 23:00:06,221,1899.8488,389.8867,0.0771,False,2,1,0.9168,1,0.5558,"agua alta, placa verde",3.8989,False,382.3867,False
+NY_Owasco_Lake_near_Auburn_Staff___2026-09-12T00-00-13Z.jpg,2026-09-12 00:00:13,246,1997.8451,,-0.6013,False,0,0,0.8431,2,0.8394,cambio de encuadre,,False,,False
+NY_Owasco_Lake_near_Auburn_Staff___2026-09-12T10-00-09Z.jpg,2026-09-12 10:00:09,558,2226.8675,,0.0000,False,-15,-15,0.0000,1,0.0000,cambio de encuadre,,False,,False
+NY_Owasco_Lake_near_Auburn_Staff___2026-09-12T12-00-13Z.jpg,2026-09-12 12:00:13,241,1991.2391,386.5533,0.3077,False,-1,0,0.9426,2,0.8799,cambio de encuadre,3.8655,False,,False
+NY_Owasco_Lake_near_Auburn_Staff___2026-09-12T13-00-08Z.jpg,2026-09-12 13:00:08,239,1988.5820,386.8867,-0.0139,False,-1,0,0.9338,2,0.8814,cambio de encuadre,3.8689,False,,False
+NY_Owasco_Lake_near_Auburn_Staff___2026-09-12T14-00-13Z.jpg,2026-09-12 14:00:13,245,1996.5281,385.8867,-0.0186,False,-1,0,0.9317,2,0.8823,cambio de encuadre,3.8589,False,,False
+NY_Owasco_Lake_near_Auburn_Staff___2026-09-12T15-00-13Z.jpg,2026-09-12 15:00:13,240,1989.9116,386.7200,-0.1774,False,-1,0,0.9142,2,0.8731,cambio de encuadre,3.8672,False,,False
+NY_Owasco_Lake_near_Auburn_Staff___2026-09-12T17-00-12Z.jpg,2026-09-12 17:00:12,249,2001.7836,385.2200,0.1909,False,0,0,0.9208,2,0.8659,cambio de encuadre,3.8522,False,,False
+NY_Owasco_Lake_near_Auburn_Staff___2026-09-12T18-00-12Z.jpg,2026-09-12 18:00:12,233,1980.5598,387.8867,0.0567,False,0,0,0.9293,2,0.8560,cambio de encuadre,3.8789,False,,False
+NY_Owasco_Lake_near_Auburn_Staff___2026-09-12T19-00-17Z.jpg,2026-09-12 19:00:17,246,1996.5281,385.7200,-0.1390,False,0,-1,0.9348,2,0.8620,cambio de encuadre,3.8572,False,,False
+NY_Owasco_Lake_near_Auburn_Staff___2026-09-12T21-00-13Z.jpg,2026-09-12 21:00:13,243,1992.5645,386.2200,-0.0629,False,0,-1,0.9456,2,0.8625,cambio de encuadre,3.8622,False,,False
+NY_Owasco_Lake_near_Auburn_Staff___2026-09-12T23-00-18Z.jpg,2026-09-12 23:00:18,244,1993.8878,386.0533,-0.1677,False,0,-1,0.9372,2,0.8682,cambio de encuadre,3.8605,False,,False
+NY_Owasco_Lake_near_Auburn_Staff___2026-09-13T10-00-12Z.jpg,2026-09-13 10:00:12,250,1991.0770,385.0533,-0.3685,False,2,0,0.8507,3,0.8064,cambio de encuadre,3.8505,False,,False
+NY_Owasco_Lake_near_Auburn_Staff___2026-09-13T12-00-12Z.jpg,2026-09-13 12:00:12,247,1985.7692,385.5533,0.0855,False,2,-1,0.9352,3,0.8705,cambio de encuadre,3.8555,False,,False
+NY_Owasco_Lake_near_Auburn_Staff___2026-09-13T13-00-09Z.jpg,2026-09-13 13:00:09,245,1983.1037,385.8867,-0.0059,False,2,-1,0.9251,3,0.8671,cambio de encuadre,3.8589,False,,False
+NY_Owasco_Lake_near_Auburn_Staff___2026-09-13T14-00-16Z.jpg,2026-09-13 14:00:16,249,1988.4269,385.2200,0.2036,False,2,-1,0.9078,3,0.8537,cambio de encuadre,3.8522,False,,False
+NY_Owasco_Lake_near_Auburn_Staff___2026-09-13T15-00-12Z.jpg,2026-09-13 15:00:12,249,1988.4269,385.2200,0.2237,False,2,-1,0.9267,3,0.8655,cambio de encuadre,3.8522,False,,False
+NY_Owasco_Lake_near_Auburn_Staff___2026-09-13T16-00-12Z.jpg,2026-09-13 16:00:12,250,1989.7529,385.0533,0.1618,False,2,-1,0.9310,3,0.8664,cambio de encuadre,3.8505,False,,False
+NY_Owasco_Lake_near_Auburn_Staff___2026-09-13T17-00-20Z.jpg,2026-09-13 17:00:20,249,1988.4269,385.2200,0.2078,False,2,-1,0.9521,3,0.8713,cambio de encuadre,3.8522,False,,False
+NY_Owasco_Lake_near_Auburn_Staff___2026-09-13T18-00-12Z.jpg,2026-09-13 18:00:12,252,1992.3991,384.7200,0.2036,False,2,-1,0.9636,3,0.8684,cambio de encuadre,3.8472,False,,False
+NY_Owasco_Lake_near_Auburn_Staff___2026-09-13T19-00-18Z.jpg,2026-09-13 19:00:18,263,2006.8174,382.8867,0.0866,False,2,-1,0.9743,3,0.8602,cambio de encuadre,3.8289,False,,False
+NY_Owasco_Lake_near_Auburn_Staff___2026-09-13T20-00-21Z.jpg,2026-09-13 20:00:21,253,1993.7193,384.5533,0.0367,False,2,-1,0.9668,3,0.8474,cambio de encuadre,3.8455,False,,False
+NY_Owasco_Lake_near_Auburn_Staff___2026-09-13T21-00-13Z.jpg,2026-09-13 21:00:13,252,1992.3991,384.7200,0.1933,False,2,-1,0.9735,3,0.8626,cambio de encuadre,3.8472,False,,False
+NY_Owasco_Lake_near_Auburn_Staff___2026-09-13T23-00-04Z.jpg,2026-09-13 23:00:04,238,1973.7131,387.0533,0.1301,False,2,-1,0.9099,3,0.8503,cambio de encuadre,3.8705,False,,False
+NY_Owasco_Lake_near_Auburn_Staff___2026-09-14T00-00-12Z.jpg,2026-09-14 00:00:12,198,1919.5836,,0.2015,False,1,0,0.8114,3,0.7633,cambio de encuadre,,False,,False
+NY_Owasco_Lake_near_Auburn_Staff___2026-09-14T12-00-13Z.jpg,2026-09-14 12:00:13,247,1987.0990,385.5533,0.0975,False,0,0,0.9510,3,0.8535,cambio de encuadre,3.8555,False,,False
+NY_Owasco_Lake_near_Auburn_Staff___2026-09-14T14-00-09Z.jpg,2026-09-14 14:00:09,250,1991.0770,385.0533,-0.0319,False,1,0,0.9587,3,0.8541,cambio de encuadre,3.8505,False,,False
+NY_Owasco_Lake_near_Auburn_Staff___2026-09-14T15-00-13Z.jpg,2026-09-14 15:00:13,252,1993.7193,384.7200,0.2037,False,1,0,0.9621,3,0.8564,cambio de encuadre,3.8472,False,,False
+NY_Owasco_Lake_near_Auburn_Staff___2026-09-14T16-00-12Z.jpg,2026-09-14 16:00:12,253,1995.0377,384.5533,0.0043,False,1,0,0.9555,3,0.8458,cambio de encuadre,3.8455,False,,False
+NY_Owasco_Lake_near_Auburn_Staff___2026-09-14T18-00-18Z.jpg,2026-09-14 18:00:18,252,1993.7193,384.7200,0.1955,False,1,0,0.9325,3,0.8686,cambio de encuadre,3.8472,False,,False
+NY_Owasco_Lake_near_Auburn_Staff___2026-09-14T19-00-20Z.jpg,2026-09-14 19:00:20,253,1995.0377,384.5533,0.1829,False,1,0,0.9329,3,0.8659,cambio de encuadre,3.8455,False,,False
+NY_Owasco_Lake_near_Auburn_Staff___2026-09-14T20-00-22Z.jpg,2026-09-14 20:00:22,251,1992.3991,384.8867,0.0670,False,1,0,0.9493,3,0.8574,cambio de encuadre,3.8489,False,,False
+NY_Owasco_Lake_near_Auburn_Staff___2026-09-14T21-00-04Z.jpg,2026-09-14 21:00:04,252,1993.7193,384.7200,0.2639,False,1,0,0.9506,3,0.8520,cambio de encuadre,3.8472,False,,False
+NY_Owasco_Lake_near_Auburn_Staff___2026-09-14T23-00-12Z.jpg,2026-09-14 23:00:12,250,1991.0770,385.0533,0.1590,False,1,0,0.9529,3,0.8479,cambio de encuadre,3.8505,False,,False

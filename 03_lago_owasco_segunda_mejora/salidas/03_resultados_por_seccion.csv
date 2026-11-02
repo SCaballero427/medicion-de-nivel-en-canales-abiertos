@@ -1,0 +1,22 @@
+seccion,version,fotos,error abs. medio (cm),sesgo (cm),max abs. (cm),% en +-2 cm,% en +-5 cm
+agua transparente,"v2, su cero",23,10.59,7.58,13.88,0.0,0.0
+agua transparente,"v2, cero de la v3",23,12.29,10.19,16.49,0.0,0.0
+agua transparente,v3,24,0.67,-0.67,2.4,95.83,100.0
+"sin agua, con nieve","v2, su cero",29,7.37,7.37,8.73,0.0,0.0
+"sin agua, con nieve","v2, cero de la v3",29,9.98,9.98,11.34,0.0,0.0
+"sin agua, con nieve",v3,0,,,,,
+agua entrando en la placa,"v2, su cero",33,1.92,0.48,11.61,60.61,96.97
+agua entrando en la placa,"v2, cero de la v3",33,3.09,3.09,14.22,51.52,78.79
+agua entrando en la placa,v3,1,12.89,12.89,12.89,0.0,0.0
+lente empanada,"v2, su cero",39,7.56,-6.79,10.51,15.38,17.95
+lente empanada,"v2, cero de la v3",39,5.86,-4.18,13.13,5.13,17.95
+lente empanada,v3,39,0.95,0.95,2.02,97.44,100.0
+"agua alta, placa verde","v2, su cero",43,10.69,0.18,13.75,0.0,0.0
+"agua alta, placa verde","v2, cero de la v3",43,10.5,2.79,16.36,0.0,0.0
+"agua alta, placa verde",v3,43,0.38,-0.28,1.43,100.0,100.0
+cambio de encuadre,"v2, su cero",0,,,,,
+cambio de encuadre,"v2, cero de la v3",0,,,,,
+cambio de encuadre,v3,30,0.34,0.12,2.02,96.67,100.0
+todas las secciones,"v2, su cero",167,7.63,0.88,13.88,15.57,23.35
+todas las secciones,"v2, cero de la v3",167,8.11,3.49,16.49,11.38,19.76
+todas las secciones,v3,137,0.68,0.19,12.89,97.08,99.27

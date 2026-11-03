@@ -1,0 +1,8 @@
+seccion,version,en la seccion,sin lectura,bajo el minimo,fotos,error abs. medio (cm),sesgo (cm),max abs. (cm),% en +-2 cm,% en +-5 cm
+agua transparente,"v2, su cero",24,1,2,21,5.76,2.97,22.56,19.05,57.14
+"sin agua, con nieve","v2, su cero",35,6,0,29,22.16,22.16,24.27,0.0,0.0
+agua entrando en la placa,"v2, su cero",40,6,0,34,17.28,17.28,22.66,0.0,0.0
+agua turbia,"v2, su cero",45,6,0,39,5.64,-5.64,51.38,51.28,89.74
+"agua alta, placa verde","v2, su cero",49,6,0,43,5.57,-5.26,29.69,25.58,76.74
+cambio de encuadre,"v2, su cero",33,33,0,0,,,,,
+todas las secciones,"v2, su cero",226,58,2,166,10.91,5.1,51.38,21.08,48.19

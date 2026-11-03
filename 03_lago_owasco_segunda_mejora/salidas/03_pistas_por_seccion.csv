@@ -1,0 +1,22 @@
+seccion,pista,fotos,error abs. medio (cm),sesgo (cm),max abs. (cm),% en +-2 cm,% en +-5 cm
+agua transparente,suma,21,5.76,2.97,22.56,19.05,57.14
+"sin agua, con nieve",suma,29,22.16,22.16,24.27,0.0,0.0
+agua entrando en la placa,suma,34,17.28,17.28,22.66,0.0,0.0
+agua turbia,suma,39,5.64,-5.64,51.38,51.28,89.74
+"agua alta, placa verde",suma,43,5.57,-5.26,29.69,25.58,76.74
+cambio de encuadre,suma,0,,,,,
+todas las secciones,suma,166,10.91,5.1,51.38,21.08,48.19
+agua transparente,separacion,18,5.87,5.87,23.06,61.11,77.78
+"sin agua, con nieve",separacion,29,15.97,15.97,17.76,0.0,0.0
+agua entrando en la placa,separacion,34,11.04,11.04,33.95,0.0,0.0
+agua turbia,separacion,39,1.42,-1.41,2.98,74.36,100.0
+"agua alta, placa verde",separacion,43,2.71,-2.71,3.59,0.0,100.0
+cambio de encuadre,separacion,0,,,,,
+todas las secciones,separacion,163,6.85,4.74,33.95,24.54,58.9
+agua transparente,espejo,22,5.24,-0.47,24.65,31.82,81.82
+"sin agua, con nieve",espejo,29,18.55,18.55,20.19,0.0,0.0
+agua entrando en la placa,espejo,34,14.12,14.12,21.96,0.0,0.0
+agua turbia,espejo,32,51.81,-51.81,73.77,0.0,0.0
+"agua alta, placa verde",espejo,43,38.52,-38.52,43.68,0.0,0.0
+cambio de encuadre,espejo,0,,,,,
+todas las secciones,espejo,160,27.8,-14.42,73.77,4.38,11.25

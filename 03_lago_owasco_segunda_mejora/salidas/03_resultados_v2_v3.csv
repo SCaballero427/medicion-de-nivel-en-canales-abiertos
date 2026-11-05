@@ -1,0 +1,22 @@
+seccion,version,en la seccion,sin lectura,bajo el minimo,fotos,error abs. medio (cm),sesgo (cm),max abs. (cm),% en +-2 cm,% en +-5 cm
+agua transparente,v2,24,1,2,21,5.76,2.97,22.56,19.05,57.14
+agua transparente,v2 + perspectiva,24,0,0,24,6.2,-4.91,19.06,66.67,70.83
+agua transparente,v3,24,0,0,24,1.01,-0.06,5.56,83.33,95.83
+"sin agua, con nieve",v2,35,6,0,29,22.16,22.16,24.27,0.0,0.0
+"sin agua, con nieve",v2 + perspectiva,35,3,0,32,4.71,3.24,26.22,31.25,65.62
+"sin agua, con nieve",v3,35,3,0,32,6.31,6.31,32.31,0.0,59.38
+agua entrando en la placa,v2,40,6,0,34,17.28,17.28,22.66,0.0,0.0
+agua entrando en la placa,v2 + perspectiva,40,1,0,39,6.99,6.92,30.58,15.38,28.21
+agua entrando en la placa,v3,40,1,3,36,4.82,2.89,19.62,50.0,69.44
+agua turbia,v2,45,6,0,39,5.64,-5.64,51.38,51.28,89.74
+agua turbia,v2 + perspectiva,45,6,0,39,5.44,-5.44,20.75,12.82,56.41
+agua turbia,v3,45,6,0,39,1.3,0.55,3.85,87.18,100.0
+"agua alta, placa verde",v2,49,6,0,43,5.57,-5.26,29.69,25.58,76.74
+"agua alta, placa verde",v2 + perspectiva,49,3,0,46,4.14,-3.85,35.03,82.61,82.61
+"agua alta, placa verde",v3,49,3,0,46,2.58,-2.56,5.96,32.61,95.65
+cambio de encuadre,v2,33,33,0,0,,,,,
+cambio de encuadre,v2 + perspectiva,33,33,0,0,,,,,
+cambio de encuadre,v3,33,1,0,32,1.31,-0.3,5.9,78.12,93.75
+todas las secciones,v2,226,58,2,166,10.91,5.1,51.38,21.08,48.19
+todas las secciones,v2 + perspectiva,226,46,0,180,5.41,-0.74,35.03,41.67,60.56
+todas las secciones,v3,226,14,3,209,2.92,0.95,32.31,53.59,86.12
